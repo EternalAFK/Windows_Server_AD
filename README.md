@@ -270,13 +270,3 @@ It also provides a useful comparison point for my cloud-based **Microsoft Entra 
 
 ---
 
-## Next Steps
-
-Additional evidence can be added for:
-
-- User creation and lifecycle management
-- Domain-joined workstation validation
-- DNS and DHCP administration
-- `gpupdate` / `gpresult` validation
-- Effective-permission testing from a standard user account
-- More PowerShell-based Active Directory administration
